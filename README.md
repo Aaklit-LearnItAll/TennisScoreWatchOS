@@ -78,7 +78,6 @@ I will try to keep it as simple as possible
 
 ## Notes
 
-- This app requires a Mac and Xcode to install (Apple Watch apps cannot be installed directly without Xcode)
-- The free Apple Developer account allows installation on your personal devices
+- This app requires a Mac and Xcode to install 
 - The app will remain on your watch until you manually delete it
-- No App Store distribution is included in this version
+
